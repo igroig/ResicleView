@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ResicleView</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="names">
+        <item>sandro</item>
+        <item>sandro</item>
+        <item>sandro</item>
+        <item>sandro</item>
+        <item>sandro</item>
+        <item>sandro</item>
+    </string-array>
+
+    <string-array name="surnames">
+        <item>kartozia</item>
+        <item>kartozia</item>
+        <item>kartozia</item>
+        <item>kartozia</item>
+        <item>kartozia</item>
+        <item>kartozia</item>
+    </string-array>
+</resources>
